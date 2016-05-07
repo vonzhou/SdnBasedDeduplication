@@ -1,0 +1,200 @@
+mininet> h1 ./client09 h30 dataset/kernel2/1
+file_count=561,file_deduplicated=0,file_new=0,file_deduplicated_pox=0,file_new_pox=561,time_ms=7580.136000,time_s=7.580136
+mininet> h1 ./client09 h30 dataset/kernel2/2
+file_count=598,file_deduplicated=0,file_new=0,file_deduplicated_pox=279,file_new_pox=319,time_ms=6857.717000,time_s=6.857717
+mininet> h1 ./client09 h30 dataset/kernel2/3
+file_count=603,file_deduplicated=0,file_new=0,file_deduplicated_pox=401,file_new_pox=202,time_ms=6775.111000,time_s=6.775111
+mininet> h1 ./client09 h30 dataset/kernel2/4
+file_count=608,file_deduplicated=0,file_new=0,file_deduplicated_pox=512,file_new_pox=96,time_ms=5826.816000,time_s=5.826816
+mininet> h1 ./client09 h30 dataset/kernel2/5
+file_count=620,file_deduplicated=0,file_new=0,file_deduplicated_pox=518,file_new_pox=102,time_ms=5359.253000,time_s=5.359253
+mininet> h1 ./client09 h30 dataset/kernel2/6
+file_count=637,file_deduplicated=0,file_new=0,file_deduplicated_pox=574,file_new_pox=63,time_ms=4903.776000,time_s=4.903776
+mininet> h1 ./client09 h30 dataset/kernel2/7
+file_count=667,file_deduplicated=0,file_new=1,file_deduplicated_pox=338,file_new_pox=328,time_ms=8435.962000,time_s=8.435962
+mininet> h1 ./client09 h30 dataset/kernel2/8
+file_count=671,file_deduplicated=0,file_new=0,file_deduplicated_pox=484,file_new_pox=187,time_ms=7313.498000,time_s=7.313498
+mininet> h1 ./client09 h30 dataset/kernel2/9
+file_count=676,file_deduplicated=0,file_new=0,file_deduplicated_pox=530,file_new_pox=146,time_ms=6463.922000,time_s=6.463922
+mininet> h1 ./client09 h30 dataset/kernel2/10
+file_count=688,file_deduplicated=0,file_new=0,file_deduplicated_pox=546,file_new_pox=142,time_ms=7026.804000,time_s=7.026804
+mininet> h1 ./client09 h30 dataset/kernel2/11
+file_count=690,file_deduplicated=0,file_new=0,file_deduplicated_pox=674,file_new_pox=16,time_ms=5027.253000,time_s=5.027253
+mininet> h1 ./client09 h30 dataset/kernel2/12
+file_count=707,file_deduplicated=0,file_new=0,file_deduplicated_pox=568,file_new_pox=139,time_ms=7551.994000,time_s=7.551994
+mininet> h1 ./client09 h30 dataset/kernel2/13
+file_count=711,file_deduplicated=0,file_new=0,file_deduplicated_pox=571,file_new_pox=140,time_ms=6472.148000,time_s=6.472148
+mininet> h1 ./client09 h30 dataset/kernel2/14
+file_count=729,file_deduplicated=0,file_new=1,file_deduplicated_pox=599,file_new_pox=129,time_ms=6429.621000,time_s=6.429621
+mininet> h1 ./client09 h30 dataset/kernel2/15
+file_count=740,file_deduplicated=0,file_new=0,file_deduplicated_pox=643,file_new_pox=97,time_ms=5839.139000,time_s=5.839139
+mininet> h1 ./client09 h30 dataset/kernel2/16
+file_count=766,file_deduplicated=0,file_new=0,file_deduplicated_pox=670,file_new_pox=96,time_ms=6189.971000,time_s=6.189971
+mininet> h1 ./client09 h30 dataset/kernel2/17
+file_count=783,file_deduplicated=0,file_new=1,file_deduplicated_pox=549,file_new_pox=233,time_ms=8217.053000,time_s=8.217053
+mininet> h1 ./client09 h30 dataset/kernel2/18
+file_count=795,file_deduplicated=0,file_new=0,file_deduplicated_pox=676,file_new_pox=119,time_ms=6047.832000,time_s=6.047832
+mininet> h1 ./client09 h30 dataset/kernel2/19
+file_count=860,file_deduplicated=0,file_new=0,file_deduplicated_pox=648,file_new_pox=212,time_ms=10232.897000,time_s=10.232897
+mininet> h1 ./client09 h30 dataset/kernel2/20
+file_count=868,file_deduplicated=0,file_new=2,file_deduplicated_pox=728,file_new_pox=138,time_ms=9483.607000,time_s=9.483607
+mininet> h1 ./client09 h30 dataset/kernel2/21
+file_count=886,file_deduplicated=0,file_new=1,file_deduplicated_pox=619,file_new_pox=266,time_ms=8971.510000,time_s=8.971510
+mininet> h1 ./client09 h30 dataset/kernel2/22
+file_count=890,file_deduplicated=0,file_new=0,file_deduplicated_pox=799,file_new_pox=91,time_ms=6280.837000,time_s=6.280837
+mininet> h1 ./client09 h30 dataset/kernel2/23
+file_count=898,file_deduplicated=0,file_new=0,file_deduplicated_pox=769,file_new_pox=129,time_ms=7388.099000,time_s=7.388099
+mininet> h1 ./client09 h30 dataset/kernel2/24
+file_count=905,file_deduplicated=0,file_new=0,file_deduplicated_pox=816,file_new_pox=89,time_ms=6759.419000,time_s=6.759419
+mininet> h1 ./client09 h30 dataset/kernel2/25
+file_count=905,file_deduplicated=0,file_new=0,file_deduplicated_pox=830,file_new_pox=75,time_ms=6795.280000,time_s=6.795280
+mininet> h1 ./client09 h30 dataset/kernel2/26
+file_count=907,file_deduplicated=0,file_new=1,file_deduplicated_pox=776,file_new_pox=130,time_ms=7354.843000,time_s=7.354843
+mininet> h1 ./client09 h30 dataset/kernel2/27
+file_count=908,file_deduplicated=0,file_new=2,file_deduplicated_pox=741,file_new_pox=165,time_ms=9378.843000,time_s=9.378843
+mininet> h1 ./client09 h30 dataset/kernel2/28
+file_count=908,file_deduplicated=0,file_new=1,file_deduplicated_pox=889,file_new_pox=18,time_ms=6749.932000,time_s=6.749932
+mininet> h1 ./client09 h30 dataset/kernel2/29
+file_count=909,file_deduplicated=0,file_new=0,file_deduplicated_pox=875,file_new_pox=34,time_ms=8276.044000,time_s=8.276044
+mininet> h1 ./client09 h30 dataset/kernel2/30
+file_count=909,file_deduplicated=0,file_new=0,file_deduplicated_pox=894,file_new_pox=15,time_ms=7568.858000,time_s=7.568858
+mininet> h1 ./client09 h30 dataset/kernel2/31
+file_count=909,file_deduplicated=0,file_new=3,file_deduplicated_pox=891,file_new_pox=15,time_ms=8232.939000,time_s=8.232939
+mininet> h1 ./client09 h30 dataset/kernel2/32
+file_count=908,file_deduplicated=0,file_new=0,file_deduplicated_pox=899,file_new_pox=9,time_ms=7731.701000,time_s=7.731701
+mininet> h1 ./client09 h30 dataset/kernel2/33
+file_count=991,file_deduplicated=0,file_new=1,file_deduplicated_pox=683,file_new_pox=307,time_ms=11308.925000,time_s=11.308925
+mininet> h1 ./client09 h30 dataset/kernel2/34
+file_count=1943,file_deduplicated=0,file_new=13,file_deduplicated_pox=124,file_new_pox=1806,time_ms=34056.028000,time_s=34.056028
+mininet> h1 ./client09 h30 dataset/kernel2/35
+file_count=1119,file_deduplicated=0,file_new=22,file_deduplicated_pox=500,file_new_pox=597,time_ms=18278.692000,time_s=18.278692
+mininet> h1 ./client09 h30 dataset/kernel2/36
+file_count=1121,file_deduplicated=0,file_new=8,file_deduplicated_pox=1034,file_new_pox=79,time_ms=9059.759000,time_s=9.059759
+mininet> h1 ./client09 h30 dataset/kernel2/37
+file_count=1121,file_deduplicated=0,file_new=5,file_deduplicated_pox=1037,file_new_pox=79,time_ms=10007.011000,time_s=10.007011
+mininet> h1 ./client09 h30 dataset/kernel2/38
+file_count=1122,file_deduplicated=0,file_new=11,file_deduplicated_pox=916,file_new_pox=195,time_ms=13394.216000,time_s=13.394216
+mininet> h1 ./client09 h30 dataset/kernel2/39
+file_count=1123,file_deduplicated=0,file_new=4,file_deduplicated_pox=999,file_new_pox=120,time_ms=9652.422000,time_s=9.652422
+mininet> h1 ./client09 h30 dataset/kernel2/40
+file_count=1125,file_deduplicated=0,file_new=4,file_deduplicated_pox=973,file_new_pox=148,time_ms=9672.993000,time_s=9.672993
+mininet> h1 ./client09 h30 dataset/kernel2/41
+file_count=1134,file_deduplicated=0,file_new=10,file_deduplicated_pox=934,file_new_pox=190,time_ms=11210.351000,time_s=11.210351
+mininet> h1 ./client09 h30 dataset/kernel2/42
+file_count=1134,file_deduplicated=0,file_new=2,file_deduplicated_pox=1068,file_new_pox=64,time_ms=8791.491000,time_s=8.791491
+mininet> h1 ./client09 h30 dataset/kernel2/43
+file_count=1141,file_deduplicated=0,file_new=7,file_deduplicated_pox=988,file_new_pox=146,time_ms=10932.735000,time_s=10.932735
+mininet> h1 ./client09 h30 dataset/kernel2/44
+file_count=1145,file_deduplicated=0,file_new=13,file_deduplicated_pox=945,file_new_pox=187,time_ms=13321.455000,time_s=13.321455
+mininet> h1 ./client09 h30 dataset/kernel2/45
+file_count=1003,file_deduplicated=0,file_new=6,file_deduplicated_pox=939,file_new_pox=58,time_ms=8676.724000,time_s=8.676724
+mininet> h1 ./client09 h30 dataset/kernel2/46
+file_count=1153,file_deduplicated=0,file_new=9,file_deduplicated_pox=1041,file_new_pox=103,time_ms=11981.280000,time_s=11.981280
+mininet> h1 ./client09 h30 dataset/kernel2/47
+file_count=1163,file_deduplicated=0,file_new=9,file_deduplicated_pox=1036,file_new_pox=118,time_ms=10677.786000,time_s=10.677786
+mininet> h1 ./client09 h30 dataset/kernel2/48
+file_count=1178,file_deduplicated=0,file_new=8,file_deduplicated_pox=985,file_new_pox=185,time_ms=12361.182000,time_s=12.361182
+mininet> h1 ./client09 h30 dataset/kernel2/49
+file_count=1209,file_deduplicated=0,file_new=10,file_deduplicated_pox=1005,file_new_pox=194,time_ms=12739.844000,time_s=12.739844
+mininet> h1 ./client09 h30 dataset/kernel2/50
+file_count=1214,file_deduplicated=0,file_new=15,file_deduplicated_pox=976,file_new_pox=223,time_ms=13156.138000,time_s=13.156138
+mininet> h1 ./client09 h30 dataset/kernel2/51
+file_count=1213,file_deduplicated=0,file_new=11,file_deduplicated_pox=1020,file_new_pox=182,time_ms=13515.822000,time_s=13.515822
+mininet> h1 ./client09 h30 dataset/kernel2/52
+file_count=1215,file_deduplicated=0,file_new=14,file_deduplicated_pox=1083,file_new_pox=118,time_ms=12703.710000,time_s=12.703710
+mininet> h1 ./client09 h30 dataset/kernel2/53
+file_count=1248,file_deduplicated=0,file_new=24,file_deduplicated_pox=1020,file_new_pox=204,time_ms=16052.922000,time_s=16.052922
+mininet> h1 ./client09 h30 dataset/kernel2/54
+file_count=1314,file_deduplicated=0,file_new=17,file_deduplicated_pox=1128,file_new_pox=169,time_ms=14352.414000,time_s=14.352414
+mininet> h1 ./client09 h30 dataset/kernel2/55
+file_count=1357,file_deduplicated=0,file_new=16,file_deduplicated_pox=1211,file_new_pox=130,time_ms=13530.931000,time_s=13.530931
+mininet> h1 ./client09 h30 dataset/kernel2/56
+file_count=1059,file_deduplicated=0,file_new=8,file_deduplicated_pox=977,file_new_pox=74,time_ms=9046.652000,time_s=9.046652
+mininet> h1 ./client09 h30 dataset/kernel2/57
+file_count=1363,file_deduplicated=0,file_new=12,file_deduplicated_pox=1256,file_new_pox=95,time_ms=12859.787000,time_s=12.859787
+mininet> h1 ./client09 h30 dataset/kernel2/58
+file_count=1370,file_deduplicated=0,file_new=5,file_deduplicated_pox=1296,file_new_pox=69,time_ms=11283.071000,time_s=11.283071
+mininet> h1 ./client09 h30 dataset/kernel2/59
+file_count=1392,file_deduplicated=0,file_new=10,file_deduplicated_pox=1271,file_new_pox=111,time_ms=12559.112000,time_s=12.559112
+mininet> h1 ./client09 h30 dataset/kernel2/60
+file_count=1394,file_deduplicated=0,file_new=9,file_deduplicated_pox=1351,file_new_pox=34,time_ms=11754.065000,time_s=11.754065
+mininet> h1 ./client09 h30 dataset/kernel2/61
+file_count=1410,file_deduplicated=0,file_new=18,file_deduplicated_pox=1199,file_new_pox=193,time_ms=14201.328000,time_s=14.201328
+mininet> h1 ./client09 h30 dataset/kernel2/62
+file_count=1439,file_deduplicated=0,file_new=17,file_deduplicated_pox=1251,file_new_pox=171,time_ms=13547.537000,time_s=13.547537
+mininet> h1 ./client09 h30 dataset/kernel2/63
+file_count=1449,file_deduplicated=0,file_new=12,file_deduplicated_pox=1338,file_new_pox=99,time_ms=12224.962000,time_s=12.224962
+mininet> h1 ./client09 h30 dataset/kernel2/64
+file_count=1454,file_deduplicated=0,file_new=20,file_deduplicated_pox=1323,file_new_pox=111,time_ms=15523.466000,time_s=15.523466
+mininet> h1 ./client09 h30 dataset/kernel2/65
+file_count=1454,file_deduplicated=0,file_new=10,file_deduplicated_pox=1364,file_new_pox=80,time_ms=14639.189000,time_s=14.639189
+mininet> h1 ./client09 h30 dataset/kernel2/66
+file_count=1458,file_deduplicated=0,file_new=16,file_deduplicated_pox=1357,file_new_pox=85,time_ms=14124.139000,time_s=14.124139
+mininet> h1 ./client09 h30 dataset/kernel2/67
+file_count=1064,file_deduplicated=0,file_new=12,file_deduplicated_pox=932,file_new_pox=120,time_ms=11679.667000,time_s=11.679667
+mininet> h1 ./client09 h30 dataset/kernel2/68
+file_count=1507,file_deduplicated=0,file_new=35,file_deduplicated_pox=1240,file_new_pox=232,time_ms=20330.662000,time_s=20.330662
+mininet> h1 ./client09 h30 dataset/kernel2/69
+file_count=1568,file_deduplicated=0,file_new=35,file_deduplicated_pox=1316,file_new_pox=217,time_ms=17666.674000,time_s=17.666674
+mininet> h1 ./client09 h30 dataset/kernel2/70
+file_count=1576,file_deduplicated=0,file_new=18,file_deduplicated_pox=1412,file_new_pox=146,time_ms=14573.629000,time_s=14.573629
+mininet> h1 ./client09 h30 dataset/kernel2/71
+file_count=1582,file_deduplicated=0,file_new=22,file_deduplicated_pox=1478,file_new_pox=82,time_ms=14848.791000,time_s=14.848791
+mininet> h1 ./client09 h30 dataset/kernel2/72
+file_count=1600,file_deduplicated=0,file_new=22,file_deduplicated_pox=1443,file_new_pox=135,time_ms=14941.557000,time_s=14.941557
+mininet> h1 ./client09 h30 dataset/kernel2/73
+file_count=1600,file_deduplicated=0,file_new=6,file_deduplicated_pox=1563,file_new_pox=31,time_ms=13368.044000,time_s=13.368044
+mininet> h1 ./client09 h30 dataset/kernel2/74
+file_count=1625,file_deduplicated=0,file_new=21,file_deduplicated_pox=1487,file_new_pox=117,time_ms=16073.218000,time_s=16.073218
+mininet> h1 ./client09 h30 dataset/kernel2/75
+file_count=1633,file_deduplicated=0,file_new=16,file_deduplicated_pox=1584,file_new_pox=33,time_ms=16120.838000,time_s=16.120838
+mininet> h1 ./client09 h30 dataset/kernel2/76
+file_count=1642,file_deduplicated=0,file_new=17,file_deduplicated_pox=1529,file_new_pox=96,time_ms=16197.841000,time_s=16.197841
+mininet> h1 ./client09 h30 dataset/kernel2/77
+file_count=1642,file_deduplicated=0,file_new=37,file_deduplicated_pox=1401,file_new_pox=204,time_ms=21312.627000,time_s=21.312627
+mininet> h1 ./client09 h30 dataset/kernel2/78
+file_count=1102,file_deduplicated=0,file_new=13,file_deduplicated_pox=1049,file_new_pox=40,time_ms=9703.442000,time_s=9.703442
+mininet> h1 ./client09 h30 dataset/kernel2/79
+file_count=1645,file_deduplicated=0,file_new=14,file_deduplicated_pox=1590,file_new_pox=41,time_ms=14889.776000,time_s=14.889776
+mininet> h1 ./client09 h30 dataset/kernel2/80
+file_count=1661,file_deduplicated=0,file_new=17,file_deduplicated_pox=1577,file_new_pox=67,time_ms=16375.694000,time_s=16.375694
+mininet> h1 ./client09 h30 dataset/kernel2/81
+file_count=1925,file_deduplicated=0,file_new=35,file_deduplicated_pox=1678,file_new_pox=212,time_ms=19424.400000,time_s=19.424400
+mininet> h1 ./client09 h30 dataset/kernel2/82
+file_count=1933,file_deduplicated=0,file_new=17,file_deduplicated_pox=1831,file_new_pox=85,time_ms=17309.536000,time_s=17.309536
+mininet> h1 ./client09 h30 dataset/kernel2/83
+file_count=1937,file_deduplicated=0,file_new=14,file_deduplicated_pox=1879,file_new_pox=44,time_ms=16376.380000,time_s=16.376380
+mininet> h1 ./client09 h30 dataset/kernel2/84
+file_count=2017,file_deduplicated=0,file_new=160,file_deduplicated_pox=1291,file_new_pox=566,time_ms=44830.442000,time_s=44.830442
+mininet> h1 ./client09 h30 dataset/kernel2/85
+file_count=2020,file_deduplicated=0,file_new=28,file_deduplicated_pox=1893,file_new_pox=99,time_ms=19173.966000,time_s=19.173966
+mininet> h1 ./client09 h30 dataset/kernel2/86
+file_count=2021,file_deduplicated=0,file_new=15,file_deduplicated_pox=1928,file_new_pox=78,time_ms=17467.204000,time_s=17.467204
+mininet> h1 ./client09 h30 dataset/kernel2/87
+file_count=2021,file_deduplicated=0,file_new=12,file_deduplicated_pox=1977,file_new_pox=32,time_ms=19247.690000,time_s=19.247690
+mininet> h1 ./client09 h30 dataset/kernel2/88
+file_count=2021,file_deduplicated=0,file_new=6,file_deduplicated_pox=1977,file_new_pox=38,time_ms=14989.642000,time_s=14.989642
+mininet> h1 ./client09 h30 dataset/kernel2/89
+file_count=2024,file_deduplicated=0,file_new=15,file_deduplicated_pox=1959,file_new_pox=50,time_ms=17307.525000,time_s=17.307525
+mininet> h1 ./client09 h30 dataset/kernel2/90
+file_count=2026,file_deduplicated=0,file_new=13,file_deduplicated_pox=1962,file_new_pox=51,time_ms=17238.145000,time_s=17.238145
+mininet> h1 ./client09 h30 dataset/kernel2/91
+file_count=2031,file_deduplicated=0,file_new=24,file_deduplicated_pox=1951,file_new_pox=56,time_ms=19296.605000,time_s=19.296605
+mininet> h1 ./client09 h30 dataset/kernel2/92
+file_count=2031,file_deduplicated=0,file_new=23,file_deduplicated_pox=1940,file_new_pox=68,time_ms=19371.648000,time_s=19.371648
+mininet> h1 ./client09 h30 dataset/kernel2/93
+file_count=2031,file_deduplicated=0,file_new=16,file_deduplicated_pox=1970,file_new_pox=45,time_ms=18302.158000,time_s=18.302158
+mininet> h1 ./client09 h30 dataset/kernel2/94
+file_count=2021,file_deduplicated=0,file_new=42,file_deduplicated_pox=1863,file_new_pox=116,time_ms=24518.322000,time_s=24.518322
+mininet> h1 ./client09 h30 dataset/kernel2/95
+file_count=2039,file_deduplicated=0,file_new=47,file_deduplicated_pox=1894,file_new_pox=98,time_ms=24153.927000,time_s=24.153927
+mininet> h1 ./client09 h30 dataset/kernel2/96
+file_count=2124,file_deduplicated=0,file_new=111,file_deduplicated_pox=1710,file_new_pox=303,time_ms=35370.263000,time_s=35.370263
+mininet> h1 ./client09 h30 dataset/kernel2/97
+file_count=2175,file_deduplicated=0,file_new=110,file_deduplicated_pox=1825,file_new_pox=240,time_ms=38950.427000,time_s=38.950427
+mininet> h1 ./client09 h30 dataset/kernel2/98
+file_count=2301,file_deduplicated=0,file_new=171,file_deduplicated_pox=1753,file_new_pox=377,time_ms=47373.788000,time_s=47.373788
+mininet> h1 ./client09 h30 dataset/kernel2/99
+file_count=2347,file_deduplicated=0,file_new=67,file_deduplicated_pox=2122,file_new_pox=158,time_ms=29858.253000,time_s=29.858253
+mininet> h1 ./client09 h30 dataset/kernel2/100
+file_count=2351,file_deduplicated=0,file_new=104,file_deduplicated_pox=2055,file_new_pox=192,time_ms=33409.677000,time_s=33.409677

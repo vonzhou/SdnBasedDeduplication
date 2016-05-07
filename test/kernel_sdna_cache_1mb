@@ -1,0 +1,197 @@
+mininet> h1 sudo ./client09 h10 dataset/kernel2/1
+file_count=561,file_deduplicated=0,file_new=0,file_deduplicated_pox=0,file_new_pox=561,time_ms=3984.502000,time_s=3.984502
+mininet> h1 sudo ./client09 h10 dataset/kernel2/2
+file_count=598,file_deduplicated=0,file_new=0,file_deduplicated_pox=279,file_new_pox=319,time_ms=3978.295000,time_s=3.978295
+mininet> h1 sudo ./client09 h10 dataset/kernel2/3
+file_count=603,file_deduplicated=0,file_new=0,file_deduplicated_pox=401,file_new_pox=202,time_ms=4055.235000,time_s=4.055235
+mininet> h1 sudo ./client09 h10 dataset/kernel2/4
+file_count=608,file_deduplicated=0,file_new=0,file_deduplicated_pox=512,file_new_pox=96,time_ms=3993.375000,time_s=3.993375
+mininet> h1 sudo ./client09 h10 dataset/kernel2/5
+file_count=620,file_deduplicated=0,file_new=0,file_deduplicated_pox=518,file_new_pox=102,time_ms=4383.148000,time_s=4.383148
+mininet> h1 sudo ./client09 h10 dataset/kernel2/6
+file_count=637,file_deduplicated=0,file_new=0,file_deduplicated_pox=574,file_new_pox=63,time_ms=3927.606000,time_s=3.927606
+mininet> h1 sudo ./client09 h10 dataset/kernel2/7
+file_count=667,file_deduplicated=0,file_new=1,file_deduplicated_pox=338,file_new_pox=328,time_ms=4730.271000,time_s=4.730271
+mininet> h1 sudo ./client09 h10 dataset/kernel2/8
+file_count=671,file_deduplicated=0,file_new=0,file_deduplicated_pox=484,file_new_pox=187,time_ms=4541.602000,time_s=4.541602
+mininet> h1 sudo ./client09 h10 dataset/kernel2/9
+file_count=676,file_deduplicated=0,file_new=0,file_deduplicated_pox=530,file_new_pox=146,time_ms=4286.892000,time_s=4.286892
+mininet> h1 sudo ./client09 h10 dataset/kernel2/10
+file_count=688,file_deduplicated=0,file_new=0,file_deduplicated_pox=546,file_new_pox=142,time_ms=4438.667000,time_s=4.438667
+mininet> h1 sudo ./client09 h10 dataset/kernel2/11
+file_count=690,file_deduplicated=0,file_new=0,file_deduplicated_pox=674,file_new_pox=16,time_ms=4089.661000,time_s=4.089661
+mininet> h1 sudo ./client09 h10 dataset/kernel2/12
+file_count=707,file_deduplicated=0,file_new=0,file_deduplicated_pox=568,file_new_pox=139,time_ms=4570.778000,time_s=4.570778
+mininet> h1 sudo ./client09 h10 dataset/kernel2/13
+file_count=711,file_deduplicated=0,file_new=0,file_deduplicated_pox=571,file_new_pox=140,time_ms=3990.463000,time_s=3.990463
+mininet> h1 sudo ./client09 h10 dataset/kernel2/14
+file_count=729,file_deduplicated=0,file_new=1,file_deduplicated_pox=599,file_new_pox=129,time_ms=4017.057000,time_s=4.017057
+mininet> h1 sudo ./client09 h10 dataset/kernel2/15
+file_count=740,file_deduplicated=0,file_new=0,file_deduplicated_pox=643,file_new_pox=97,time_ms=3868.141000,time_s=3.868141
+mininet> h1 sudo ./client09 h10 dataset/kernel2/16
+file_count=766,file_deduplicated=0,file_new=0,file_deduplicated_pox=670,file_new_pox=96,time_ms=4052.472000,time_s=4.052472
+mininet> h1 sudo ./client09 h10 dataset/kernel2/17
+file_count=783,file_deduplicated=0,file_new=1,file_deduplicated_pox=549,file_new_pox=233,time_ms=4754.992000,time_s=4.754992
+mininet> h1 sudo ./client09 h10 dataset/kernel2/18
+file_count=795,file_deduplicated=0,file_new=0,file_deduplicated_pox=676,file_new_pox=119,time_ms=4232.118000,time_s=4.232118
+mininet> h1 sudo ./client09 h10 dataset/kernel2/19
+file_count=860,file_deduplicated=0,file_new=0,file_deduplicated_pox=648,file_new_pox=212,time_ms=5151.035000,time_s=5.151035
+mininet> h1 sudo ./client09 h10 dataset/kernel2/20
+file_count=868,file_deduplicated=0,file_new=2,file_deduplicated_pox=728,file_new_pox=138,time_ms=4873.002000,time_s=4.873002
+mininet> h1 sudo ./client09 h10 dataset/kernel2/21
+file_count=886,file_deduplicated=0,file_new=1,file_deduplicated_pox=619,file_new_pox=266,time_ms=5061.407000,time_s=5.061407
+mininet> h1 sudo ./client09 h10 dataset/kernel2/22
+file_count=890,file_deduplicated=0,file_new=0,file_deduplicated_pox=799,file_new_pox=91,time_ms=4723.242000,time_s=4.723242
+mininet> h1 sudo ./client09 h10 dataset/kernel2/23
+file_count=898,file_deduplicated=0,file_new=0,file_deduplicated_pox=769,file_new_pox=129,time_ms=4931.769000,time_s=4.931769
+mininet> h1 sudo ./client09 h10 dataset/kernel2/24
+file_count=905,file_deduplicated=0,file_new=0,file_deduplicated_pox=816,file_new_pox=89,time_ms=4690.151000,time_s=4.690151
+mininet> h1 sudo ./client09 h10 dataset/kernel2/25
+file_count=905,file_deduplicated=0,file_new=0,file_deduplicated_pox=830,file_new_pox=75,time_ms=4760.420000,time_s=4.760420
+mininet> h1 sudo ./client09 h10 dataset/kernel2/26
+file_count=907,file_deduplicated=0,file_new=1,file_deduplicated_pox=776,file_new_pox=130,time_ms=4957.690000,time_s=4.957690
+mininet> h1 sudo ./client09 h10 dataset/kernel2/27
+file_count=908,file_deduplicated=0,file_new=2,file_deduplicated_pox=741,file_new_pox=165,time_ms=5509.543000,time_s=5.509543
+mininet> h1 sudo ./client09 h10 dataset/kernel2/28
+file_count=908,file_deduplicated=0,file_new=1,file_deduplicated_pox=889,file_new_pox=18,time_ms=4668.759000,time_s=4.668759
+mininet> h1 sudo ./client09 h10 dataset/kernel2/29
+file_count=909,file_deduplicated=0,file_new=0,file_deduplicated_pox=875,file_new_pox=34,time_ms=4858.196000,time_s=4.858196
+mininet> h1 sudo ./client09 h10 dataset/kernel2/30
+file_count=909,file_deduplicated=0,file_new=0,file_deduplicated_pox=894,file_new_pox=15,time_ms=4622.892000,time_s=4.622892
+mininet> h1 sudo ./client09 h10 dataset/kernel2/31
+file_count=909,file_deduplicated=0,file_new=3,file_deduplicated_pox=891,file_new_pox=15,time_ms=4793.980000,time_s=4.793980
+mininet> h1 sudo ./client09 h10 dataset/kernel2/32
+file_count=908,file_deduplicated=0,file_new=0,file_deduplicated_pox=899,file_new_pox=9,time_ms=4692.734000,time_s=4.692734
+mininet> h1 sudo ./client09 h10 dataset/kernel2/33
+file_count=991,file_deduplicated=0,file_new=1,file_deduplicated_pox=683,file_new_pox=307,time_ms=5676.105000,time_s=5.676105
+mininet> h1 sudo ./client09 h10 dataset/kernel2/34
+file_count=1943,file_deduplicated=0,file_new=13,file_deduplicated_pox=124,file_new_pox=1806,time_ms=15189.873000,time_s=15.189873
+mininet> h1 sudo ./client09 h10 dataset/kernel2/35
+file_count=1119,file_deduplicated=1,file_new=22,file_deduplicated_pox=499,file_new_pox=597,time_ms=9171.806000,time_s=9.171806
+mininet> h1 sudo ./client09 h10 dataset/kernel2/36
+file_count=1121,file_deduplicated=1,file_new=8,file_deduplicated_pox=1033,file_new_pox=79,time_ms=6409.044000,time_s=6.409044
+mininet> h1 sudo ./client09 h10 dataset/kernel2/37
+file_count=1121,file_deduplicated=1,file_new=5,file_deduplicated_pox=1036,file_new_pox=79,time_ms=6377.981000,time_s=6.377981
+mininet> h1 sudo ./client09 h10 dataset/kernel2/38
+file_count=1122,file_deduplicated=1,file_new=11,file_deduplicated_pox=915,file_new_pox=195,time_ms=7602.265000,time_s=7.602265
+mininet> h1 sudo ./client09 h10 dataset/kernel2/39
+file_count=1123,file_deduplicated=2,file_new=4,file_deduplicated_pox=997,file_new_pox=120,time_ms=6362.422000,time_s=6.362422
+mininet> h1 sudo ./client09 h10 dataset/kernel2/40
+file_count=1125,file_deduplicated=3,file_new=4,file_deduplicated_pox=970,file_new_pox=148,time_ms=6617.593000,time_s=6.617593
+mininet> h1 sudo ./client09 h10 dataset/kernel2/41
+file_count=1134,file_deduplicated=3,file_new=10,file_deduplicated_pox=931,file_new_pox=190,time_ms=7899.549000,time_s=7.899549
+mininet> h1 sudo ./client09 h10 dataset/kernel2/42
+file_count=1134,file_deduplicated=3,file_new=2,file_deduplicated_pox=1065,file_new_pox=64,time_ms=6887.017000,time_s=6.887017
+mininet> h1 sudo ./client09 h10 dataset/kernel2/43
+file_count=1141,file_deduplicated=5,file_new=7,file_deduplicated_pox=983,file_new_pox=146,time_ms=7746.075000,time_s=7.746075
+mininet> h1 sudo ./client09 h10 dataset/kernel2/44
+file_count=1145,file_deduplicated=9,file_new=13,file_deduplicated_pox=936,file_new_pox=187,time_ms=8904.938000,time_s=8.904938
+mininet> h1 sudo ./client09 h10 dataset/kernel2/45
+file_count=1003,file_deduplicated=337,file_new=6,file_deduplicated_pox=602,file_new_pox=58,time_ms=18004.779000,time_s=18.004779
+mininet> h1 sudo ./client09 h10 dataset/kernel2/46
+file_count=1153,file_deduplicated=10,file_new=9,file_deduplicated_pox=1031,file_new_pox=103,time_ms=8748.015000,time_s=8.748015
+mininet> h1 sudo ./client09 h10 dataset/kernel2/47
+file_count=1163,file_deduplicated=23,file_new=9,file_deduplicated_pox=1013,file_new_pox=118,time_ms=9111.124000,time_s=9.111124
+mininet> h1 sudo ./client09 h10 dataset/kernel2/48
+file_count=1178,file_deduplicated=27,file_new=8,file_deduplicated_pox=958,file_new_pox=185,time_ms=9267.747000,time_s=9.267747
+mininet> h1 sudo ./client09 h10 dataset/kernel2/49
+file_count=1209,file_deduplicated=27,file_new=10,file_deduplicated_pox=978,file_new_pox=194,time_ms=10099.658000,time_s=10.099658
+mininet> h1 sudo ./client09 h10 dataset/kernel2/50
+file_count=1214,file_deduplicated=33,file_new=15,file_deduplicated_pox=943,file_new_pox=223,time_ms=10426.705000,time_s=10.426705
+mininet> h1 sudo ./client09 h10 dataset/kernel2/51
+file_count=1213,file_deduplicated=43,file_new=11,file_deduplicated_pox=977,file_new_pox=182,time_ms=10049.477000,time_s=10.049477
+mininet> h1 sudo ./client09 h10 dataset/kernel2/52
+file_count=1215,file_deduplicated=48,file_new=14,file_deduplicated_pox=1035,file_new_pox=118,time_ms=9652.989000,time_s=9.652989
+mininet> h1 sudo ./client09 h10 dataset/kernel2/53
+file_count=1248,file_deduplicated=84,file_new=24,file_deduplicated_pox=936,file_new_pox=204,time_ms=12335.970000,time_s=12.335970
+mininet> h1 sudo ./client09 h10 dataset/kernel2/54
+file_count=1314,file_deduplicated=133,file_new=17,file_deduplicated_pox=995,file_new_pox=169,time_ms=13947.567000,time_s=13.947567
+mininet> h1 sudo ./client09 h10 dataset/kernel2/55
+file_count=1357,file_deduplicated=185,file_new=16,file_deduplicated_pox=1026,file_new_pox=130,time_ms=16133.020000,time_s=16.133020
+mininet> h1 sudo ./client09 h10 dataset/kernel2/56
+file_count=1059,file_deduplicated=287,file_new=8,file_deduplicated_pox=690,file_new_pox=74,time_ms=16928.868000,time_s=16.928868
+mininet> h1 sudo ./client09 h10 dataset/kernel2/57
+file_count=1363,file_deduplicated=204,file_new=12,file_deduplicated_pox=1052,file_new_pox=95,time_ms=15435.737000,time_s=15.435737
+mininet> h1 sudo ./client09 h10 dataset/kernel2/58
+file_count=1370,file_deduplicated=209,file_new=5,file_deduplicated_pox=1087,file_new_pox=69,time_ms=14797.598000,time_s=14.797598
+mininet> h1 sudo ./client09 h10 dataset/kernel2/59
+file_count=1392,file_deduplicated=230,file_new=10,file_deduplicated_pox=1041,file_new_pox=111,time_ms=17207.249000,time_s=17.207249
+mininet> h1 sudo ./client09 h10 dataset/kernel2/60
+file_count=1394,file_deduplicated=236,file_new=9,file_deduplicated_pox=1115,file_new_pox=34,time_ms=15715.893000,time_s=15.715893
+mininet> h1 sudo ./client09 h10 dataset/kernel2/61
+file_count=1410,file_deduplicated=254,file_new=18,file_deduplicated_pox=945,file_new_pox=193,time_ms=19330.303000,time_s=19.330303
+mininet> h1 sudo ./client09 h10 dataset/kernel2/62
+file_count=1439,file_deduplicated=274,file_new=17,file_deduplicated_pox=977,file_new_pox=171,time_ms=19811.345000,time_s=19.811345
+mininet> h1 sudo ./client09 h10 dataset/kernel2/63
+file_count=1449,file_deduplicated=280,file_new=12,file_deduplicated_pox=1058,file_new_pox=99,time_ms=18591.849000,time_s=18.591849
+mininet> h1 sudo ./client09 h10 dataset/kernel2/64
+file_count=1454,file_deduplicated=305,file_new=20,file_deduplicated_pox=1018,file_new_pox=111,time_ms=20625.415000,time_s=20.625415
+mininet> h1 sudo ./client09 h10 dataset/kernel2/65
+file_count=1454,file_deduplicated=310,file_new=10,file_deduplicated_pox=1054,file_new_pox=80,time_ms=20488.250000,time_s=20.488250
+mininet> h1 sudo ./client09 h10 dataset/kernel2/66
+file_count=1458,file_deduplicated=319,file_new=16,file_deduplicated_pox=1038,file_new_pox=85,time_ms=21357.842000,time_s=21.357842
+mininet> h1 sudo ./client09 h10 dataset/kernel2/67
+file_count=1064,file_deduplicated=254,file_new=12,file_deduplicated_pox=678,file_new_pox=120,time_ms=17209.632000,time_s=17.209632
+mininet> h1 sudo ./client09 h10 dataset/kernel2/68
+file_count=1507,file_deduplicated=364,file_new=35,file_deduplicated_pox=876,file_new_pox=232,time_ms=27039.573000,time_s=27.039573
+mininet> h1 sudo ./client09 h10 dataset/kernel2/69
+file_count=1568,file_deduplicated=414,file_new=35,file_deduplicated_pox=902,file_new_pox=217,time_ms=28058.846000,time_s=28.058846
+mininet> h1 sudo ./client09 h10 dataset/kernel2/70
+file_count=1576,file_deduplicated=443,file_new=18,file_deduplicated_pox=969,file_new_pox=146,time_ms=26905.148000,time_s=26.905148
+mininet> h1 sudo ./client09 h10 dataset/kernel2/71
+file_count=1582,file_deduplicated=458,file_new=22,file_deduplicated_pox=1020,file_new_pox=82,time_ms=25958.425000,time_s=25.958425
+mininet> h1 sudo ./client09 h10 dataset/kernel2/72
+file_count=1600,file_deduplicated=501,file_new=22,file_deduplicated_pox=942,file_new_pox=135,time_ms=28380.134000,time_s=28.380134
+mininet> h1 sudo ./client09 h10 dataset/kernel2/73
+file_count=1600,file_deduplicated=510,file_new=6,file_deduplicated_pox=1053,file_new_pox=31,time_ms=25208.383000,time_s=25.208383
+mininet> the following 4 is lost================
+file_count=1102,file_deduplicated=353,file_new=12,file_deduplicated_pox=696,file_new_pox=41,time_ms=18573.700000,time_s=26
+file_count=1102,file_deduplicated=353,file_new=12,file_deduplicated_pox=696,file_new_pox=41,time_ms=18573.700000,time_s=25.5
+file_count=1102,file_deduplicated=353,file_new=12,file_deduplicated_pox=696,file_new_pox=41,time_ms=18573.700000,time_s=18.7
+file_count=1102,file_deduplicated=353,file_new=12,file_deduplicated_pox=696,file_new_pox=41,time_ms=18573.700000,time_s=28.3
+mininet> h1 sudo ./client09 h10 dataset/kernel2/78
+file_count=1102,file_deduplicated=353,file_new=12,file_deduplicated_pox=696,file_new_pox=41,time_ms=18573.700000,time_s=18.573700
+mininet> h1 sudo ./client09 h10 dataset/kernel2/79
+file_count=1645,file_deduplicated=792,file_new=58,file_deduplicated_pox=538,file_new_pox=257,time_ms=43208.179000,time_s=43.208179
+mininet> h1 sudo ./client09 h10 dataset/kernel2/80
+file_count=1661,file_deduplicated=852,file_new=16,file_deduplicated_pox=725,file_new_pox=68,time_ms=37923.778000,time_s=37.923778
+mininet> h1 sudo ./client09 h10 dataset/kernel2/81
+file_count=1925,file_deduplicated=1076,file_new=34,file_deduplicated_pox=602,file_new_pox=213,time_ms=49914.768000,time_s=49.914768
+mininet> h1 sudo ./client09 h10 dataset/kernel2/82
+file_count=1933,file_deduplicated=1270,file_new=15,file_deduplicated_pox=561,file_new_pox=87,time_ms=52891.665000,time_s=52.891665
+mininet> h1 sudo ./client09 h10 dataset/kernel2/83
+file_count=1937,file_deduplicated=1347,file_new=14,file_deduplicated_pox=532,file_new_pox=44,time_ms=53515.978000,time_s=53.515978
+mininet> h1 sudo ./client09 h10 dataset/kernel2/84
+file_count=2017,file_deduplicated=1014,file_new=151,file_deduplicated_pox=277,file_new_pox=575,time_ms=63293.819000,time_s=63.293819
+mininet> h1 sudo ./client09 h10 dataset/kernel2/85
+file_count=2020,file_deduplicated=973,file_new=26,file_deduplicated_pox=920,file_new_pox=101,time_ms=44917.694000,time_s=44.917694
+mininet> h1 sudo ./client09 h10 dataset/kernel2/86
+file_count=2021,file_deduplicated=953,file_new=14,file_deduplicated_pox=975,file_new_pox=79,time_ms=42630.468000,time_s=42.630468
+mininet> h1 sudo ./client09 h10 dataset/kernel2/87
+file_count=2021,file_deduplicated=947,file_new=12,file_deduplicated_pox=1030,file_new_pox=32,time_ms=41305.929000,time_s=41.305929
+mininet> h1 sudo ./client09 h10 dataset/kernel2/88
+file_count=2021,file_deduplicated=940,file_new=5,file_deduplicated_pox=1037,file_new_pox=39,time_ms=40596.914000,time_s=40.596914
+mininet> h1 sudo ./client09 h10 dataset/kernel2/89
+file_count=2024,file_deduplicated=931,file_new=15,file_deduplicated_pox=1028,file_new_pox=50,time_ms=43035.925000,time_s=43.035925
+mininet> h1 sudo ./client09 h10 dataset/kernel2/90
+file_count=2026,file_deduplicated=926,file_new=13,file_deduplicated_pox=1036,file_new_pox=51,time_ms=42189.875000,time_s=42.189875
+mininet> h1 sudo ./client09 h10 dataset/kernel2/91
+file_count=2031,file_deduplicated=916,file_new=23,file_deduplicated_pox=1035,file_new_pox=57,time_ms=42566.317000,time_s=42.566317
+mininet> h1 sudo ./client09 h10 dataset/kernel2/92
+file_count=2031,file_deduplicated=906,file_new=23,file_deduplicated_pox=1034,file_new_pox=68,time_ms=42143.910000,time_s=42.143910
+mininet> h1 sudo ./client09 h10 dataset/kernel2/93
+file_count=2031,file_deduplicated=895,file_new=16,file_deduplicated_pox=1075,file_new_pox=45,time_ms=40389.066000,time_s=40.389066
+mininet> h1 sudo ./client09 h10 dataset/kernel2/94
+file_count=2021,file_deduplicated=1056,file_new=40,file_deduplicated_pox=807,file_new_pox=118,time_ms=48369.807000,time_s=48.369807
+mininet> h1 sudo ./client09 h10 dataset/kernel2/95
+file_count=2039,file_deduplicated=880,file_new=45,file_deduplicated_pox=1014,file_new_pox=100,time_ms=43926.239000,time_s=43.926239
+mininet> h1 sudo ./client09 h10 dataset/kernel2/96
+file_count=2124,file_deduplicated=812,file_new=108,file_deduplicated_pox=898,file_new_pox=306,time_ms=49948.413000,time_s=49.948413
+mininet> h1 sudo ./client09 h10 dataset/kernel2/97
+file_count=2175,file_deduplicated=763,file_new=102,file_deduplicated_pox=1062,file_new_pox=248,time_ms=47952.198000,time_s=47.952198
+mininet> h1 sudo ./client09 h10 dataset/kernel2/98
+file_count=2301,file_deduplicated=696,file_new=166,file_deduplicated_pox=1057,file_new_pox=382,time_ms=52185.479000,time_s=52.185479
+mininet> h1 sudo ./client09 h10 dataset/kernel2/99
+file_count=2347,file_deduplicated=681,file_new=65,file_deduplicated_pox=1441,file_new_pox=160,time_ms=42409.381000,time_s=42.409381
+mininet> h1 sudo ./client09 h10 dataset/kernel2/100
+file_count=2351,file_deduplicated=639,file_new=102,file_deduplicated_pox=1416,file_new_pox=194,time_ms=43404.226000,time_s=43.404226
