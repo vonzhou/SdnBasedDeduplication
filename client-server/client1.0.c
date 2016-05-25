@@ -1,3 +1,64 @@
+/*
+## Backup Client 
+
+### 0.1
+
+ * maybe return the list of fp indicating the chunk needed to transfer to server TODO
+ * here just a whole file ,so i return 0/1
+ * bug 1: Use read() to get reply from serer NOT readline() ...
+ * bug 2: buffer should be memset to 0
+ *
+
+
+### 0.2
+
+ * add file fp
+ * transfer file by fixed chunk
+ * bug 1: in function var should be set 0
+
+
+### 0.3
+
+ * recv quik reply from SDN controller (here i use UDP, low cost)
+ * bug 1: recvfrom error: Bad address, recvfrom last arg should be a socklent pointer
+
+### 0.4
+
+ * reconstruct use UDP, count time
+
+
+### 0.5
+
+ * Transfer files in a folder
+
+### 0.6
+
+ * Triger the server to sync bloom filter to SDN controller
+ * Inform the start and end of a backup
+ * If file is new telled by POX, then server just store (not dedu)
+ 
+
+### 0.7
+
+ * UDP port for fp and control flow, and TCP port file data flow
+ * UDP packets loss problem when large flow in the SDN network (set timeout to recvfrom)
+
+### 0.8
+
+* Oops return to USE TCP to send fp and file, bcs UDP unreliable
+* Implement a reliable UDP is not easy(tried!)
+* Communicate with POX use UDP[client -> POX -> server]
+* TODO transfer SHA-1 by raw 20 bytes, and then convert to 40 bytes representation
+ 
+
+### 0.9
+
+ Use a config file to index the files
+
+### 1.0
+
+control deduplicatoin method with args
+*/
 #include	"global.h"
 
 #define CHUNK_SIZE 1400

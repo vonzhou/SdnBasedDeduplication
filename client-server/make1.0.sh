@@ -10,10 +10,10 @@ gcc -g -o client client1.0.c lib10.a
 gcc -g -o server server1.0.c lib10.a
 
 
-rm ../mininet/server
-rm  ../mininet/client
-cp server ../mininet/.
-cp client ../mininet/.
+rm ../../mininet/server
+rm  ../../mininet/client
+cp server ../../mininet/.
+cp client ../../mininet/.
 
 rm *.o
 
