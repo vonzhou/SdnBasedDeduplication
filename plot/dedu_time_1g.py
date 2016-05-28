@@ -19,7 +19,7 @@ print sdna_time_1000m[23]
 x = np.arange(N)
 
 #plt.figure(figsize=(10,8))
-plt.plot(x, base_time_1000m, label='$baseline-1Gb$',color='red' , linewidth = 2)
+plt.plot(x, base_time_1000m, label='$baseline-1Gb$',marker="x", color='red' , linewidth = 2)
 plt.plot(x, sdna_time_1000m, label='$sdna-1Gb$', color='blue', linewidth = 2)
 
 #yticks = np.linspace(0, 200, num = 10)

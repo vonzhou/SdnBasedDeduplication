@@ -18,10 +18,10 @@ bloom_linear20=(62.160789, 51.847004, 45.635466, 39.542766, 40.421912, 39.412397
 x = np.arange(N)
 
 #plt.figure(figsize=(10,6))
-plt.plot(x, bloom_linear10, label='$bloom-linear10$',color='red' , linewidth = 2)
-plt.plot(x, bloom_linear20, label='$bloom-linear20$', color='green', linewidth = 2)
+plt.plot(x, bloom_linear10, label='$Bloom-linear10$',color='red' , linewidth = 2)
+plt.plot(x, bloom_linear20, label='$Bloom-linear20$', marker="x",color='green', linewidth = 2)
 
-yticks = np.arange(0, 225, step = 15)
+yticks = np.arange(0, 250, step = 25)
 plt.yticks(yticks)
 
 # add some text for labels, title and axes ticks

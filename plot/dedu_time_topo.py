@@ -21,9 +21,9 @@ linear30 = (7.580136, 6.857717, 6.775111, 5.826816, 5.359253, 4.903776, 8.435962
 x = np.arange(N)
 
 plt.figure(figsize=(10,6))
-plt.plot(x, linear10, label='$sdna-linear10$',color='red' , linewidth = 2)
+plt.plot(x, linear10, label='$sdna-linear10$',marker="x", color='red' , linewidth = 2)
 plt.plot(x, linear20, label='$sdna-linear20$', color='green', linewidth = 2)
-plt.plot(x, linear30, label='$sdna-linear30$', color='purple', linewidth = 2)
+plt.plot(x, linear30, label='$sdna-linear30$', marker="+",color='purple', linewidth = 2)
 
 yticks = np.arange(0, 70, step = 5)
 plt.yticks(yticks)

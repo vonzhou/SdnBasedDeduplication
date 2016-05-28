@@ -22,9 +22,9 @@ x = np.arange(N)
 
 plt.figure(figsize=(10,6))
 #plt.plot(x, base_time, label='$baseline-1Gb$',color='red' , linewidth = 2)
-plt.plot(x, base_time2, label='$baseline$',color='red' , linewidth = 2)
-plt.plot(x, bloom_time, label='$bloom$', color='blue', linewidth = 2)
-plt.plot(x, sdna_time, label='$sdna$', color='purple', linewidth = 2)
+plt.plot(x, base_time2, label='$baseline$',marker='^',color='red' , linewidth = 2)
+plt.plot(x, bloom_time, label='$Bloom$', color='blue', linewidth = 2)
+plt.plot(x, sdna_time, label='$sdna$', marker='+', color='purple', linewidth = 2)
 
 yticks = np.arange(0, 130, step = 15)
 plt.yticks(yticks)

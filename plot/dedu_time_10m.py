@@ -19,7 +19,7 @@ print sdna_time_10m[23]
 x = np.arange(N)
 
 #plt.figure(figsize=(8,6))
-plt.plot(x, base_time_10m, label='$baseline-10Mb$', color='red', linewidth = 2)
+plt.plot(x, base_time_10m, label='$baseline-10Mb$', marker="x",color='red', linewidth = 2)
 plt.plot(x, sdna_time_10m, label='$sdna-10Mb$', color='blue', linewidth = 2)
 
 # add some text for labels, title and axes ticks

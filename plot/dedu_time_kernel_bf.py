@@ -20,12 +20,12 @@ sdna_time_cache_full_bf10k = [4.178732, 4.40786, 4.282818, 3.913264, 4.138791, 3
 x = np.arange(N)
 
 plt.figure(figsize=(10,6))
-plt.plot(x, base_time, label='$baseline$',color='red' , linewidth = 2)
-plt.plot(x, sdna_time_cache_full_bf10k, label='$sdna-bf10Kb$', color='green', linewidth = 2)
-plt.plot(x, sdna_time_cache_full_bf50k, label='$sdna-bf50Kb$', color='purple', linewidth = 2)
+plt.plot(x, base_time, label='$baseline$',marker="D", color='red' , linewidth = 2)
+plt.plot(x, sdna_time_cache_full_bf10k, label='$sdna-bf10Kb$', marker="x", color='green', linewidth = 2)
+plt.plot(x, sdna_time_cache_full_bf50k, label='$sdna-bf50Kb$', marker="+", color='purple', linewidth = 2)
 plt.plot(x, sdna_time_cache_full_bf100k, label='$sdna-bf100Kb$', color='blue', linewidth = 2)
 
-yticks = np.arange(0, 130, step = 15)
+yticks = np.arange(0, 150, step = 15)
 plt.yticks(yticks)
 
 # add some text for labels, title and axes ticks
